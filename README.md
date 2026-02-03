@@ -32,7 +32,7 @@ __  ______ ____    ____ ___  ____  _____
 ### Installation
 ```bash
 # Clone the repository (if applicable)
-git clone <repository-url>
+git clone https://github.com/evertrustai/xss_core.git
 cd xss_core
 
 # Install dependencies (if any are listed in requirements.txt)
@@ -63,3 +63,4 @@ pip install -r requirements.txt
 
 ---
 *Created for educational and professional security testing purposes. Always obtain permission before scanning targets you do not own.*
+
